@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package myhelloworld;
+package edshelloworld;
 
 /**
  *
  * @author jag_m
  */
-public class MyHelloWorld {
+public class EdsHelloWorld {
 
     /**
      * @param args the command line arguments
